@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
   So far in the ICS 314 class I have learned and recapped information in relation to software engineering. The main areas of learning so far have been about Javascript 
 and the athletic software engineering system. In this essay, I will discuss what I have learned about Javascript, how Javascript compares to other languages, and 
 describe athletic software engineering and its benefits.
