@@ -11,44 +11,34 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+  So far in the ICS 314 class I have learned and recapped information in relation to software engineering. The main areas of learning so far have been about Javascript 
+and the athletic software engineering system. In this essay, I will discuss what I have learned about Javascript, how Javascript compares to other languages, and 
+describe athletic software engineering and its benefits.
+  Firstly, what have I learned about Javascript? The two courses assigned as ICS 314 homework were not the first Javascript courses I have taken. I have previously 
+completed courses on Khan academy and codecademy that taught Javascript. One Khan academy class I took was an introduction course that focused on the applications of 
+Javascript when used to draw on a canvas. The course also covered essential coding concepts such as loops, functions, and variables. I also completed a course on Khan 
+academy centered around Javascript’s use in relation to HTML, CSS, and web-application development. As I had a bit of previous experience with Javascript, the courses 
+assigned by ICS 314 served as a good recap of the language’s ins and outs. I relearned Javascript syntax as well as functionality specific to Javascript. While the 
+Basic Javascript course was mainly review, I learned a lot of new information in the ES6 course. For example, being able to declare functions with arrows, the use of 
+imports and exports, and promises were all concepts that I had never covered in a prior Javascript course.
+  Not only have I learned quite a bit about Javascript’s syntax and functionality, I have also begun forming an opinion on Javascript’s uses in comparison to other 
+programming languages. The main difference I have noticed between Javascript and other languages such as Java and C is functionality. In Javascript, the functionality 
+is much more intuitive than in other languages. Additionally, functionality is not strictly regulated and limited like it is in Java. For example, in Javascript, 
+arrays are not stuck to a set size like they are in Java. Another example is the fact that variables and items in an array are not required to be a specific type in 
+Javascript. In Java, such restrictions are in place. Another benefit that Javascript has over other languages is its Event-Driven nature. This means that Javascript 
+is geared towards events such as a click or the user inputting data. Event-Driven Programming (EDP) allows for more dynamic outcomes and a more responsive environment.
+However, the Event-Driven nature of Javascript also has its drawbacks. By definition, EDP shifts the focus to events and will invariably give much control to the user.
+While this can definitely be an asset to software development, it can also be a detriment. The flexibility of Javascript can lead to developers having to deal with 
+extremely complex outcomes. In fact, because the language is so flexible, it is hard to account for and properly handle the countless potential outcomes. This could 
+lead to bugs, glitches, and an unsafe or hackable environment. Overall, however, the flexibility and intuitive functionality of the language makes it an overall great 
+pick for software engineering.
+	In this class, I have not only learned about Javascript but have also been introduced to the athletic software engineering system. Athletic software engineering 
+draws an analogy between learning programming and exercise regimens like crossfit. This system utilizes repeated and intense practices called WODs that challenge 
+how much the student has learned about a programming language or environment. These Workouts of the Days (WODs) are both stressful and enjoyable. As they impose a 
+time limit to complete the given tasks, it requires prior knowledge, focus, and skill to finish the task. I find them enjoyable because I like challenges that 
+stimulate my problem solving skills. Overall, I believe that the athletic software engineering system will be quite helpful in developing my coding competency, 
+software development and problem solving skills.
+	Up until this point in class, I have gained quite a bit of knowledge of Javascript, how it compares to other programming languages, and the system of athletic 
+software engineering. I am looking forward to the challenges this ICS 314 will present and hope to be well prepared for possible internships and a career in the 
+technology field after completion of the class.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
