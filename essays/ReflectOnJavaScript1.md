@@ -35,16 +35,14 @@ extremely complex outcomes. In fact, because the language is so flexible, it is 
 lead to bugs, glitches, and an unsafe or hackable environment. Overall, however, the flexibility and intuitive functionality of the language makes it an overall great 
 pick for software engineering.
 
-
-  In this class, I have not only learned about Javascript but have also been introduced to the athletic software engineering system. Athletic software engineering 
+In this class, I have not only learned about Javascript but have also been introduced to the athletic software engineering system. Athletic software engineering 
 draws an analogy between learning programming and exercise regimens like crossfit. This system utilizes repeated and intense practices called WODs that challenge 
 how much the student has learned about a programming language or environment. These Workouts of the Days (WODs) are both stressful and enjoyable. As they impose a 
 time limit to complete the given tasks, it requires prior knowledge, focus, and skill to finish the task. I find them enjoyable because I like challenges that 
 stimulate my problem solving skills. Overall, I believe that the athletic software engineering system will be quite helpful in developing my coding competency, 
 software development and problem solving skills.
 
-
-  Up until this point in class, I have gained quite a bit of knowledge of Javascript, how it compares to other programming languages, and the system of athletic 
+Up until this point in class, I have gained quite a bit of knowledge of Javascript, how it compares to other programming languages, and the system of athletic 
 software engineering. I am looking forward to the challenges this ICS 314 will present and hope to be well prepared for possible internships and a career in the 
 technology field after completion of the class.
 
