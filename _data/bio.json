@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "C", "C++",  "Javascript", "Python", "SQL", "PHP" ]
+      "keywords": [ "Java", "C", "C++",  "Javascript", "Python", "SQL", "PHP", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -75,9 +75,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "President, Eta Sigma Alpha National Homeschool Honor Society, 2019-2020",
+        "Student Leader, UH Manoa Navigators Campus Ministry, 2023-Present",
+        "Student Leader, Honolulu Speech and Debate Club, 2021-2022"
       ]
     }
   ],
