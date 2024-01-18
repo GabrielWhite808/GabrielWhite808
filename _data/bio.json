@@ -56,12 +56,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Windward Baptist Church,
+      "organization": "Windward Baptist Church",
       "website": "https://www.facebook.com/windwardbc",
       "position": "Vacation Bible School (VBS) Volunteer",
       "startDate": "2016-06-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteered each summer to help students aged 4-12 memorize verses, aid in outside activities, and perform in Biblical skit.",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
