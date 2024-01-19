@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/LinkedListProject.png
+image: img/LinkedListProject.png
 title: "Linked List Databse"
 date: 2023
 published: true
