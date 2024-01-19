@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Hangman.png
+image: img/Hangman.jpg
 title: "Hangman Game"
 date: 2023
 published: true
