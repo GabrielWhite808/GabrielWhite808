@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/LinkedListProject.png
-title: "Linked List Databse"
+title: "Linked List Database"
 date: 2023
 published: true
 labels:
