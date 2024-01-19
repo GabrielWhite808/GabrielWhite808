@@ -6,7 +6,8 @@ title: "Chess Competition"
 date: 2010-Present
 published: true
 labels:
-  - C++
+  - Problem Solving
+  - Teamwork
 summary: "Competition in scholastic chess for over a decade"
 ---
 
