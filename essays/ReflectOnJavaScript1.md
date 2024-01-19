@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Reflect On Java Script 1"
+title: "Javascript: Flexible and Dynamic"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
 labels:
   - Software Engineering
+  - Computer Programming
 ---
 
   So far in the ICS 314 class I have learned and recapped information in relation to software engineering. The main areas of learning so far have been about Javascript 
