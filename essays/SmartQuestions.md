@@ -23,7 +23,7 @@ Now that a few of the article’s pieces of advice have been summarized, a cruci
 **Examples of Smart and Not Smart Questions**
 In this section, we will examine one not smart question and one smart question posted to stackoverflow. 
 
-First, we will analyze the [not smart question](https://stackoverflow.com/questions/77882352/problem-appending-an-array-and-printing-it-in-python).
+First, we will analyze the [not smart question.](https://stackoverflow.com/questions/77882352/problem-appending-an-array-and-printing-it-in-python)
 
-
+Now, we will analyze the [smart question.](https://stackoverflow.com/questions/77883353/using-opencv-to-read-input-from-capture-card)
 
