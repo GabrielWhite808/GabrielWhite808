@@ -21,6 +21,7 @@ In his article, Raymond offers advice on how to ask questions the right way. The
 Now that a few of the article’s pieces of advice have been summarized, a crucial question can be posed. What is the importance of asking a smart question? The significance of following these seemingly strict guidelines cannot be understated. The first benefit is the likelihood of receiving a useful response. A smart question is much more likely to draw the attention of a busy expert. It will have a descriptive title and will accurately describe the symptoms of the problem at hand. Additionally, a smart question will demonstrate that the person asking the question has spent time and effort into solving the problem before posting. The experts, or hackers as they call themselves are “unapologetically… hostile to people who seem to be unwilling to think or to do their own homework before asking questions” (Raymond). Overall, a smart question proves that the person posing the question has pondered the question themself and in the hacker’s mind is worthy of his precious time. 
 
 **Examples of Smart and Not Smart Questions**
+
 In this section, we will examine one not smart question and one smart question posted to stackoverflow. 
 
 First, we will analyze the [not smart question.](https://stackoverflow.com/questions/77882352/problem-appending-an-array-and-printing-it-in-python)
