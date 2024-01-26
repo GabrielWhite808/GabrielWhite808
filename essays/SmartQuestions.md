@@ -26,5 +26,7 @@ In this section, we will examine one not smart question and one smart question p
 
 First, we will analyze the [not smart question.](https://stackoverflow.com/questions/77882352/problem-appending-an-array-and-printing-it-in-python)
 
+The user asking the question here wants to know why the array is not appending as he wishes. Verbatim, his question reads, "I cant make append work. When i try to add passengers and then print my array it just empy []" Immediately, we observe that the question violates multiple of Raymond's principles to asking smart questions. First off, the post is not even a question. Instead, it is a statement that the program is not working and that the array is empty when it should not be. This leaves the reader to guess what exactly the user wants from his program. 
+
 Now, we will analyze the [smart question.](https://stackoverflow.com/questions/77883353/using-opencv-to-read-input-from-capture-card)
 
