@@ -30,3 +30,6 @@ The user asking the question here wants to know why the array is not appending a
 
 Now, we will analyze the [smart question.](https://stackoverflow.com/questions/77883353/using-opencv-to-read-input-from-capture-card)
 
+In this example the user is asking about a problem regarding "Using OpenCV to read input from Capture Card." Right off the bat, the grammar and title are much more professional than the not smart counterpart. Additionally, the user does a good job of detailing the problem in chronological order and including relevant and concise snippets of code at each step. He also excels at the exact wording of the errors he faced as well as when those errors occured. Overall, this user is much more open to advise than the last user and even leaves open the possibility that someone could suggest a completely different solution that would work better. Finally, he wraps up with a concise question, "How can I configure OpenCV or any other AI tool to be able to read from my capture card?" This post is a great example of what a smart question looks like.
+
+
