@@ -14,4 +14,4 @@ summary: "A playable Hangman game that properly handles invalid input and allows
 
 A playable Hangman game that properly handles invalid input and allows for solving the entire puzzle.
 
-Coded in Python, this game demonstrates taking a simple game and programming it from scratch. It also has bonus functionalities such the ability to attempt the puzzle solution as a whole. 
+Coded in Python, this game demonstrates the concept of taking a simple game and programming it from scratch. It also has bonus functionalities such the ability to attempt the puzzle solution as a whole. 
