@@ -12,4 +12,4 @@ summary: "A database that allows for adding, deleting, and finding records of a 
 
 <img class="img-fluid" src="../img/LinkedListProject.png">
 
-This project implemented both front-end and back-end components of a records database. This database properly handled invalid input and allowed for user data to be multiple lines.
+This project implemented both front-end and back-end components of a records database. It also properly handled invalid input and allowed for user data to be multiple lines. 
