@@ -17,4 +17,4 @@ Competed for the Hawaii Homeschool Chess Club with numerous won championships, i
 
 Represented Hawaii in the invitation only Denker Tournament of National Chess Champions 3 times with placement in the top 25 in the nation. 
 
-Developed problem-solving, analytical, and critical thinking skills through years of dedicated practice and competition.
+Developed problem-solving, analytical, and critical thinking skills through years of dedicated practice and competition. Through rigourous competition with teamates, developed a strong team-spirit and teamwork skills. Won many team state championships with various teamates.

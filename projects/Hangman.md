@@ -16,4 +16,4 @@ A playable Hangman game that properly handles invalid input and allows for solvi
 
 Coded in Python, this game demonstrates the concept of taking a simple game and programming it from scratch. It also has bonus functionalities such the ability to attempt the puzzle solution as a whole. 
 
-Added functionality which allows for quick additions of future puzzles by simply adding strings to an array.
+Added functionality which allows for quick additions of future puzzles by simply adding strings to an array. This project demonstrates my ability to be competant at self-learning. I have never taken a high school or college course on Python but was able to learn and master it through online courses.
