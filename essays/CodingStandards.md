@@ -28,5 +28,6 @@ Coding Standard Tools
 
 When maintaining coding standards for programs, manually checking to ensure compliance with the standards is neither efficient nor effective. Instead, some form of tool should be used to check that the code is following the standards. Many such tools are available and could even be used to fix issues of noncompliance quickly. One such tool available for Javascript is ESLint. I have used ESLint before and it will generate errors in the program when the code is not in compliance with the coding standards it has been given. At first, it was a bit tedious making sure that every line of code was following the standards but after a while I realized how useful the tool is. ESLint guarantees conformity to the coding guidelines and makes it much simpler to have the readable and easily maintainable code that comes with enforcing coding standards.
 
+Coding standards are paramount for creating a readable, maintainable, and consistent program. The tools to enforce the standards are readily available and easy to use. No programmer has an excuse for not utilizing coding standards in their programs. Code is not supposed to be a messy restaurant. Cleanliness should match content.
 
 
