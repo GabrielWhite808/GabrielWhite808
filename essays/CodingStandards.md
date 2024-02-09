@@ -10,6 +10,8 @@ labels:
   - Computer Programming
 ---
 
+<img class="img-fluid" src="../img/ESLint.png">
+
 Imagine you have just entered a restaurant. It is known for having incredible food and you are excited to try the delicious cuisine available. As you settle at your table, you look around and see grease, dirt, grime, and even a dead rat on the ground. As you process the awful state of the restaurant, your food arrives and looks delicious. While the food is known for being delicious you cannot bring yourself to eat it. The food may have been exquisite but the restaurant was not up to health standards and your entire restaurant experience was ruined.
 
 What does an anecdote about a filthy restaurant have to do with coding? It demonstrates how important cleanliness and maintaining standards are in any industry. Just like the restaurant served food that was delicious but still failed miserably in its presentation and health standards, code can often work but be written in a sloppy manner. Having a set of guidelines for formatting, style, and the implementation of good coding practices is known as coding standards. This essay will delve into the importance of maintaining standards when coding and tools that can be utilized to ensure efficient enforcement of these standards. 
