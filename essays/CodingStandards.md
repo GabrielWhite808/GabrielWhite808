@@ -25,7 +25,7 @@ Let us take a team of programmers that are collectively working on a large and c
 Not only do coding standards create consistency, they also greatly increase code readability. Code readability is very important for writing maintainable programs, especially if more than one programmer must simultaneously work on the same project. Code readability also helps the original author. Overall, having a coding standard will increase the readability of the code. One example that demonstrates this concept can be found in the legal world. Imagine that a lawyer has been hired by a client and must submit a complex legal document to the court. The lawyer writes up the document and then attempts to submit it. While the document is grammatically correct, it has no consistency in formatting. Each header has a different font size, different colors are used randomly, and different fonts are utilized. This document might technically be grammatically correct but it is effectively unintelligible. The court will reject the document until it is submitted in the proper convention. This example parallels how coding standards affect readability. In the same way that the lawyer’s document was grammatically correct but was unintelligible, code without a standard could run but still be unreadable.
 
 
-Coding Standard Tools
+<h2>Coding Standard Tools</h2>
 
 <img class="img-fluid" src="../img/ESLint.png">
 
