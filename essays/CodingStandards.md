@@ -10,6 +10,13 @@ labels:
   - Computer Programming
 ---
 
+Imagine you have just entered a restaurant. It is known for having incredible food and you are excited to try the delicious cuisine available. As you settle at your table, you look around and see grease, dirt, grime, and even a dead rat on the ground. As you process the awful state of the restaurant, your food arrives and looks delicious. While the food is known for being delicious you cannot bring yourself to eat it. The food may have been exquisite but the restaurant was not up to health standards and your entire restaurant experience was ruined.
+
+What does an anecdote about a filthy restaurant have to do with coding? It demonstrates how important cleanliness and maintaining standards are in any industry. Just like the restaurant served food that was delicious but still failed miserably in its presentation and health standards, code can often work but be written in a sloppy manner. Having a set of guidelines for formatting, style, and the implementation of good coding practices is known as coding standards. This essay will delve into the importance of maintaining standards when coding and tools that can be utilized to ensure efficient enforcement of these standards. 
+
+
+Importance of Coding Standards
+
 Coding standards are important for a multitude of reasons. The most apparent benefit of using coding standards is in the name itself. Simply put, coding standards create a standard. These standards generate consistency and are extremely helpful when keeping, maintaining, and debugging code. Additionally, they make collaboration much easier and more efficient. 
 
 Let us take a team of programmers that are collectively working on a large and complex program as an example. In the first scenario, each programmer uses their own coding standard or worse yet does not use a consistent standard at all. In this case, the program will be absolute chaos. While the code might technically run, any minor bug will be a major inconvenience. Each programmer will have to expend time and effort simply understanding what their fellow programmers wrote. Instead of focusing on fixing the problem, which is what they should be doing, they must first understand the numerous different styles or lack thereof implemented by fellow developers. Now imagine that instead of this chaos, all programmers utilize one consistent style. In this scenario, bugs can be addressed much more effectively and directly than before. Each programmer will understand the convention and style used by fellow developers because a consistent standard is maintained.
