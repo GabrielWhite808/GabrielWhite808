@@ -10,7 +10,6 @@ labels:
   - Computer Programming
 ---
 
-<img class="img-fluid" src="../img/ESLint.png">
 
 Imagine you have just entered a restaurant. It is known for having incredible food and you are excited to try the delicious cuisine available. As you settle at your table, you look around and see grease, dirt, grime, and even a dead rat on the ground. As you process the awful state of the restaurant, your food arrives and looks delicious. While the food is known for being delicious you cannot bring yourself to eat it. The food may have been exquisite but the restaurant was not up to health standards and your entire restaurant experience was ruined.
 
@@ -27,6 +26,8 @@ Not only do coding standards create consistency, they also greatly increase code
 
 
 Coding Standard Tools
+
+<img class="img-fluid" src="../img/ESLint.png">
 
 When maintaining coding standards for programs, manually checking to ensure compliance with the standards is neither efficient nor effective. Instead, some form of tool should be used to check that the code is following the standards. Many such tools are available and could even be used to fix issues of noncompliance quickly. One such tool available for Javascript is ESLint. I have used ESLint before and it will generate errors in the program when the code is not in compliance with the coding standards it has been given. At first, it was a bit tedious making sure that every line of code was following the standards but after a while I realized how useful the tool is. ESLint guarantees conformity to the coding guidelines and makes it much simpler to have the readable and easily maintainable code that comes with enforcing coding standards.
 
