@@ -16,7 +16,7 @@ Imagine you have just entered a restaurant. It is known for having incredible fo
 What does an anecdote about a filthy restaurant have to do with coding? It demonstrates how important cleanliness and maintaining standards are in any industry. Just like the restaurant served food that was delicious but still failed miserably in its presentation and health standards, code can often work but be written in a sloppy manner. Having a set of guidelines for formatting, style, and the implementation of good coding practices is known as coding standards. This essay will delve into the importance of maintaining standards when coding and tools that can be utilized to ensure efficient enforcement of these standards. 
 
 
-Importance of Coding Standards
+<h2>Importance of Coding Standards</h2>
 
 Coding standards are important for a multitude of reasons. The most apparent benefit of using coding standards is in the name itself. Simply put, coding standards create a standard. These standards generate consistency and are extremely helpful when keeping, maintaining, and debugging code. Additionally, they make collaboration much easier and more efficient. 
 
