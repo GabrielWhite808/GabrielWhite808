@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Framework Essay"
+title: "Removing Reduncdancies"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-20
 published: true
@@ -32,3 +32,11 @@ UI frameworks offer a reusable baseline for any web application. No longer will 
 UI frameworks also offer preprogrammed design style so that a developer does not have to start from scratch with the web design. This removes much of the tedious, repetitive programming that would have taken place at the creation of the application. 
 
 Personally, I have found the utilization of Bootstrap 5 to be quite helpful in the implementation of web applications. Bootstrap offers common icons that I could quickly pull from and it allowed me to write minimal CSS which is often tedious. Instead of repeatedly tweaking the CSS until the applications were visually appealing, I could wrap elements in divs with Bootstrap classes and voila, the aesthetic was complete. Overall, Bootstrap allowed me to be more efficient in my web development endeavors. 
+
+
+<h2>Importance of Knowing UI Frameworks</h2>
+
+As a software engineer, it is vital to be comfortable with a variety of UI Frameworks. Rarely will employees for web development corporations work solely with HTML and CSS. Rather, the company will likely utilize a framework such as Bootstrap or React. Knowing many frameworks makes a potential employee a more dynamic and employable candidate for a job position. 
+
+UI Frameworks are essential for an efficient and consistent web development environment. They provide programmers with resources such as libraries, icons, and a baseline for project creation. No software engineer has an excuse for not incorporating UI frameworks in their knowledge base. Remember, efficiency is key. Redundancies must be removed.
+
