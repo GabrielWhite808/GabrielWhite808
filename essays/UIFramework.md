@@ -21,5 +21,5 @@ As the saying goes, necessity is the mother of invention, and the world of web d
 
 As the name suggests, a UI framework is a collection of libraries, styles, and preprogrammed elements that can be used when developing a user interface or web application. A few of the most popular frameworks include Bootstrap, Semantic-UI, and React. While each framework has its own advantages and utility, they all offer a multitude of tools to developers that reduce the amount of time spent at the keyboard. This essay will delve into the benefits of using a UI framework as well as the importance of knowing them as a software developer.
 
-<img class="img-fluid" src="../img/ESLint.png">
+<img class="img-fluid" src="../img/bootstrap2.png">
 
