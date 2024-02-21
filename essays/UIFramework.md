@@ -15,3 +15,11 @@ Removing redundancies is the name of the game in software engineering. As a soft
 
 
 As the saying goes, necessity is the mother of invention, and the world of web development is no exception to this maxim. In the case of web development, programmers became tired of writing CSS style sheets from scratch for each web application and UI frameworks were born. 
+
+
+<h2>What is a UI Framework?</h2>
+
+As the name suggests, a UI framework is a collection of libraries, styles, and preprogrammed elements that can be used when developing a user interface or web application. A few of the most popular frameworks include Bootstrap, Semantic-UI, and React. While each framework has its own advantages and utility, they all offer a multitude of tools to developers that reduce the amount of time spent at the keyboard. This essay will delve into the benefits of using a UI framework as well as the importance of knowing them as a software developer.
+
+
+
