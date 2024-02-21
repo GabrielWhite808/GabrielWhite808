@@ -23,3 +23,12 @@ As the name suggests, a UI framework is a collection of libraries, styles, and p
 
 <img class="img-fluid" src="../img/bootstrap2.png">
 
+
+
+<h2>Benefits of using UI Framework</h2>
+
+UI frameworks offer a reusable baseline for any web application. No longer will a developer spend precious time setting up the first few styles for the project. Instead the developer links in the chosen framework and like magic a baseline is set. This gives the developer more time to focus on the specific implementation of the application and allows them to be more efficient. 
+
+UI frameworks also offer preprogrammed design style so that a developer does not have to start from scratch with the web design. This removes much of the tedious, repetitive programming that would have taken place at the creation of the application. 
+
+Personally, I have found the utilization of Bootstrap 5 to be quite helpful in the implementation of web applications. Bootstrap offers common icons that I could quickly pull from and it allowed me to write minimal CSS which is often tedious. Instead of repeatedly tweaking the CSS until the applications were visually appealing, I could wrap elements in divs with Bootstrap classes and voila, the aesthetic was complete. Overall, Bootstrap allowed me to be more efficient in my web development endeavors. 
