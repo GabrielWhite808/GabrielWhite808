@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Clean, Simple, and Effective"
+title: "UI Framework Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-20
 published: true
