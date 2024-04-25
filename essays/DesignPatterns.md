@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Recipe for Success"
 # All dates must be YYYY-MM-DD format!
 date: 2024-4-24
 published: true
