@@ -21,9 +21,14 @@ Design patterns in software engineering serve as templates for developers. By pr
 
 While design patterns do serve as a great tool for software developers to use, it is important to understand that not all are created equal. Before using a certain platform which utilizes design patterns, it is important to know what the design patterns used are and how they will apply to the application being created. For example, it would not be advantageous to use a design pattern geared towards user-interface and interaction for an application that is almost entirely used for back-end database functionality. This would be similar to a chef using a recipe for a sandwich to make a soup. The chef would have to rely on their own ability to make the soup and the recipe would likely make the process more complicated. As a result of different design patterns being implemented in various platforms, it is vital to understand and match the application's goal with a framework that suits it. This is something I have stumbled upon in my own interactions with the design patterns of Meteor.
 
+<img class="img-fluid" src="../img/ESLint.png">
+
 <h2>Design Patterns in Meteor</h2>
 
-<img class="img-fluid" src="../img/ESLint.png">
+Meteor is a web designer, open-stack, full-source platform that uses React and Bootstrap to provide a reactive environment for users. Meteor uses multiple design patterns as well as full on templates for developers. One of the main design patterns it uses is the Model View Controller (MVC) design pattern. Firstly, it models the data structure, this is usually done through collections in MongoDB. Secondly, it allows developers to display the data to the user through UI components. Finally, it controls the interaction between the model and the view. This is done through the additions and edits that the user can make to data. Another design pattern that Meteor offers is the Publish-Subscribe pattern. This allows data to be synchronized between the server and the client. The server publishes data, and the client subscribes to this data. This means that data can be quickly modified and will react to changes effectively. I have found that these design patterns are very helpful in making data management quick and efficient. However, one of the downsides of these models is that it is a bit complex to deal with data that should be hidden. Due to the fact that collections allow quick interaction with users, the users can usually have quick access to any data through the console. This means that making an application with data that users should not be able to access is a bit more complex. Once again, this demonstrates the importance of understanding a platform, in this case Meteor, and how its design patterns affect potential developers and applications.
+
+
+
 
 
 
