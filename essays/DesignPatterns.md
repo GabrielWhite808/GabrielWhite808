@@ -15,6 +15,7 @@ Imagine you are a chef given a task to create an exquisite dish of crab-stuffed 
 
 <h2>Design Patterns</h2>
 
+Design patterns in software engineering serve as templates for developers. By providing pre-determined structures, they allow developers to recreate patterns of behaviors with minor modifications. This parallels how a chef can make minor modifications to a recipe instead of starting from scratch. Now that developers have this framework, they are able to implement changes much faster. This allows them to spend more time on fixing glitches and implementing more complex aspects of their programs instead of spending countless hours working on the bare bone models of their application that design patterns would have supplied. This means that utilizing the design patterns of a platform allows developers to be much more efficient and productive.
 
 <h2>Importance of Understanding Design Patterns</h2>
 
