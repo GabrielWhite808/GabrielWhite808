@@ -19,6 +19,7 @@ Design patterns in software engineering serve as templates for developers. By pr
 
 <h2>Importance of Understanding Design Patterns</h2>
 
+While design patterns do serve as a great tool for software developers to use, it is important to understand that not all are created equal. Before using a certain platform which utilizes design patterns, it is important to know what the design patterns used are and how they will apply to the application being created. For example, it would not be advantageous to use a design pattern geared towards user-interface and interaction for an application that is almost entirely used for back-end database functionality. This would be similar to a chef using a recipe for a sandwich to make a soup. The chef would have to rely on their own ability to make the soup and the recipe would likely make the process more complicated. As a result of different design patterns being implemented in various platforms, it is vital to understand and match the application's goal with a framework that suits it. This is something I have stumbled upon in my own interactions with the design patterns of Meteor.
 
 <h2>Design Patterns in Meteor</h2>
 
