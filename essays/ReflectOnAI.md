@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Clean, Simple, and Effective"
+title: "Reflect on AI"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-07
+date: 2024-4-29
 published: true
 labels:
   - Software Engineering
   - Computer Programming
+  - Artificial Intelligence
 ---
 
 ### I. Introduction
