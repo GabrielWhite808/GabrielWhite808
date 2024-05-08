@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on AI"
+title: "AI: Tool or Takeover"
 # All dates must be YYYY-MM-DD format!
 date: 2024-4-29
 published: true
