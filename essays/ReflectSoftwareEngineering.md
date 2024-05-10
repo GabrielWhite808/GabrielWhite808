@@ -4,7 +4,7 @@ type: essay
 title: "Reflect on Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-5-09
-published: false
+published: true
 labels:
   - Software Engineering
   - Computer Programming
