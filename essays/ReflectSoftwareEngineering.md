@@ -35,4 +35,4 @@ When maintaining coding standards for programs, manually checking to ensure comp
 
 These concepts of configuration management and coding standards are just a couple of the many important topics I retained and utilized during the software engineering course I took this semester. I hope to apply these crucial concepts as I progress in my education and career in programming and software engineering. 
 
-*Used ChatGPT to list the capabilities of GitHub that are useful for configuration management.
+*This essay used ChatGPT to list the capabilities of GitHub that are useful for configuration management.
