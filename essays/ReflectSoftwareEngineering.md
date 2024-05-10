@@ -19,6 +19,7 @@ One major concept that I studied was configuration management. The Computer Secu
 
 <h2>Github</h2>
 <img class="img-fluid" src="../img/github.png">
+
 One configuration management tool that I have utilized is Github. Github offers configuration management abilities such as version control, branching and merging, code reviews, and issue tracking. These capabilities allowed me and my team of developers to have access to many versions of our project and revert changes as needed. Overall, Github and other configuration management tools give software developers a multitude of tools to effectively oversee updates and development of code both in web development and beyond.
 
 <h2>Coding Standards</h2>
@@ -34,3 +35,4 @@ When maintaining coding standards for programs, manually checking to ensure comp
 
 These concepts of configuration management and coding standards are just a couple of the many important topics I retained and utilized during the software engineering course I took this semester. I hope to apply these crucial concepts as I progress in my education and career in programming and software engineering. 
 
+*Used ChatGPT to list the capabilities of GitHub that are useful for configuration management.
