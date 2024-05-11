@@ -6,8 +6,8 @@ title: "Project Portal Hawaii"
 date: Spring 2024
 published: true
 labels:
-  - Software Engineering
-  - Teamwork
+  - Meteor
+  - React
   - Github
 summary: "Created a portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased."
 ---
@@ -25,4 +25,6 @@ For those wishing to use or view the website portal the live deployment is avail
 The project that my team and I created is a portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased. This project was created in accordance to the specifications of UH Professors Anthony Peruma and Dan Port. The portal establishes a framework for classes with project formats similar to ICS 314 to expidite the project generation, selection, and approval process. 
 
 <h2>My Contribution</h2>
+For this project, I contributed to the creation of the minimum value product, the format of the collections used projects, understanding and implementing the specifications of Professors Peruma and Port, and coding the jsx for the Showcase Projects Page. 
 
+<h4>Showcase Projects Page</h4>
