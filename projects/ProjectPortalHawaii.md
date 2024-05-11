@@ -18,7 +18,7 @@ For web developers or those wishing to learn more about the code of this project
 [https://project-portal-hawaii.github.io/](https://project-portal-hawaii.github.io/)
 
 For those wishing to use or view the website portal the live deployment is available here: 
-[https://project-portal.live](https://project-portal.live)https://github.com/project-portal-hawaii
+[https://project-portal.live](https://project-portal.live)
 
 
 <h2>Project Portal Hawaii Overview</h2>
