@@ -9,7 +9,7 @@ labels:
   - Meteor
   - React
   - Github
-summary: "Created a portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased."
+summary: "A portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased."
 ---
 
 <img class="img-fluid" src="../img/Screenshot_pph_landing.png">
