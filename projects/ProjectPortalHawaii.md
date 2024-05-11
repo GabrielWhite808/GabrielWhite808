@@ -24,9 +24,9 @@ For those wishing to use or view the website portal the live deployment is avail
 <h2>Project Portal Hawaii Overview</h2>
 The project that my team and I created is a portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased. This project was created in accordance to the specifications of UH Professors Anthony Peruma and Dan Port. The portal establishes a framework for classes with project formats similar to ICS 314 to expidite the project generation, selection, and approval process. 
 
-It creates a platform for the ICS capstone project and other organizations to 
+The portal also creates a platform for the ICS capstone project and other organizations wishing to recognize sponsors or students to showcase the previously completed projects. This will allow inspiration for future projects and allow sponsors to view the fruition of the projects they supported.
 
 <h2>My Contribution</h2>
-For this project, I contributed to the creation of the minimum value product, the format of the collections used projects, understanding and implementing the specifications of Professors Peruma and Port, and coding the jsx for the Showcase Projects Page. 
+For this project, I contributed to the creation of the minimum value product, the format of the collections used for projects, discussed and implemented the specifications of Professors Peruma and Port, and coded the jsx for the Showcase Projects Page. 
 
 <h4>Showcase Projects Page</h4>
