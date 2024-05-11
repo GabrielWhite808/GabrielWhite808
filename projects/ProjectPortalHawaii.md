@@ -20,6 +20,9 @@ For web developers or those wishing to learn more about the code of this project
 For those wishing to use or view the website portal the live deployment is available here: 
 [https://project-portal.live](https://project-portal.live)https://github.com/project-portal-hawaii
 
+
+<h2>Project Portal Hawaii Overview</h2>
 The project that my team and I created is a portal for students or organizations to propose projects, have those projects reviewed, approved, and showcased. This project was created in accordance to the specifications of UH Professors Anthony Peruma and Dan Port. The portal establishes a framework for classes with project formats similar to ICS 314 to expidite the project generation, selection, and approval process. 
 
-<h2>My </h2>
+<h2>My Contribution</h2>
+
