@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Removing Reduncdancies"
+title: "Removing Redundancies"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-20
 published: true
