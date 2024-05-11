@@ -4,7 +4,7 @@ type: project
 image: img/ChessPieces.png
 title: "Chess Competition"
 date: 2010-Present
-published: true
+published: false
 labels:
   - Problem Solving
   - Teamwork
