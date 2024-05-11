@@ -30,3 +30,10 @@ The portal also creates a platform for the ICS capstone project and other organi
 For this project, I contributed to the creation of the minimum value product, the format of the collections used for projects, discussed and implemented the specifications of Professors Peruma and Port, and coded the jsx for the Showcase Projects Page. 
 
 <h4>Showcase Projects Page</h4>
+
+<img class="img-fluid" src="../img/pph_showcase.png">
+The showcase page I implemented fully renders the data of the showcased projects by filtering by status. It also uses a dropdown component to allow additional information to be displayed, including testimonals, instructor, and imbedded video.
+
+<h2>Additional Information</h2>
+Additional information regarding the Project Portal Hawaii Team, its members, and progression of the project is available here:
+[https://project-portal-hawaii.github.io/](https://project-portal-hawaii.github.io/)
