@@ -4,7 +4,7 @@ type: essay
 title: "The Dos and Don'ts of Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-1-25
-published: true
+published: false
 labels:
   - Software Engineering
   - Computer Programming
