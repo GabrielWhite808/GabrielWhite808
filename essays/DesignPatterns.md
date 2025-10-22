@@ -4,7 +4,7 @@ type: essay
 title: "Recipe for Success"
 # All dates must be YYYY-MM-DD format!
 date: 2024-4-24
-published: true
+published: false
 labels:
   - Software Engineering
   - Software Development
